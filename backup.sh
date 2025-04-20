@@ -15,6 +15,7 @@ caminho="/home/${USER}/.config/"
 pasta=("i3/" 
 	"i3status/" 
 	"rofi/"
+	"fastfetch"
 )
 dest="${caminho}/BACKUP-CONF/"
 
